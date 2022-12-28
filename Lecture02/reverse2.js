@@ -1,4 +1,4 @@
-function revereString(value) {
+function reverseString(value) {
 
     const reversedValue = value.split('').reverse().join('')
     return reversedValue;
