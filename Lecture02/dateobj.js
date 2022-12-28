@@ -8,10 +8,8 @@ console.log('Starting timer....');
 //expected output : starting timer ...
 
 setTimeout(() => {
-        const millis = Date.now() - start;
+    const millis = Date.now() - start;
 
-        console.log(`seconds elapsed = ${Math.floor(millis / 1000)}`);
+    console.log(`seconds elapsed = ${Math.floor(millis / 1000)}`);
         //expected output : seconds elapsed = 2 
-    }, 2000
-
-);
+    }, 2000);
