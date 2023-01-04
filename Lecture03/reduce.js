@@ -7,4 +7,3 @@ const sum = arrayOfNumber.reduce((accumulator, currentValue) => {
 console.log(sum); //10
 
 // get string can run  >>>> 'AAA' >>> "string"
-//
