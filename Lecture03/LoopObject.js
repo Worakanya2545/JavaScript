@@ -1,8 +1,7 @@
-let arrayLenght = 7;
+let arrayLength = 7;
 let arr1 = [];
-let arr2 = Array(arrayLenght);
+let arr2 = Array(arrayLength);
 let arr3 = ['A', false, 5]
-
 
 //getting array length
 console.log(arr1.length);
