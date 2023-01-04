@@ -3,4 +3,4 @@ let values2 = ['Fries', 2, true];
 let values3 = ['Mars', 9, 'Apple'];
 
 
-
+console
