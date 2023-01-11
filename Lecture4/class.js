@@ -11,3 +11,4 @@ class Song{
 
 const mySong = new Song();
 mySong.play();
+console.log(mySong.title);
