@@ -13,8 +13,13 @@ class Dog{
     }
 }
 
+
 const myDog = new Dog("Buster");
 myDog.introduce();
+
+const my2Dog = new Dog("Pluto")
+my2Dog.introduce();
+
 
 //Calling the static method
 Dog.back
